@@ -114,6 +114,6 @@ Each file reads data/phrase.txt and displays its requirements.
 
 ---
 
-**Всего: ~55 языков**
+**Total: ~55 languages**
 
-> Если знаешь язык которого нет — PR welcome
+> If you know a language that doesn't exist, PR is welcome.
