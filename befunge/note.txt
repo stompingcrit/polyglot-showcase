@@ -1,0 +1,2 @@
+Befunge-93 has no file I/O. Prints hardcoded string.
+Run: cfunge main.befunge

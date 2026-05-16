@@ -1,0 +1,3 @@
+Malbolge is intentionally impossible to write by hand.
+A "Hello World" in Malbolge took 2 years to produce.
+We respect its chaos and leave this directory as a monument.

@@ -1,0 +1,3 @@
+Brainfuck has no file I/O in most interpreters.
+This prints a hardcoded greeting instead.
+Run: beef main.bf   (or any bf interpreter)

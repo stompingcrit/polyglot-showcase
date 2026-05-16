@@ -1,0 +1,5 @@
+import File from "file"
+import Process from "process"
+
+let content = File.readFile("../data/phrase.txt")
+Process.stdout(content)

@@ -1,0 +1,6 @@
+(define port (open-input-file "../data/phrase.txt"))
+(let loop ((char (read-char port)))
+  (unless (eof-object? char)
+    (write-char char)
+    (loop (read-char port))))
+(close-input-port port)
