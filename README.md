@@ -1,8 +1,8 @@
 # polyglot-showcase
 
-Одна фраза. Много языков. Один прикол.
+One phrase. Many languages. One joke.
 
-Каждый файл читает `data/phrase.txt` и выводит его содержимое.
+Each file reads `data/phrase.txt` and displays its requirements.
 
 ## Languages
 
